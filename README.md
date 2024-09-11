@@ -9,5 +9,6 @@ Feel free to explore each project, and check back for updates as new dashboards 
 ### Project 1: Sales Dashboard
 
 [Tableau Public](https://public.tableau.com/app/profile/aleksandra.zbieranska/viz/KDSlesson9-ProductDetailsandparetoanalysis/ProductDetails)
+[Detailed description of the project: Sales Dashboard in Tableau](project_1 Sales Dashboard/readme_sales_dashboard.md)
 
 
