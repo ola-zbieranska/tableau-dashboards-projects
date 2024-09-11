@@ -1,4 +1,4 @@
-### Sales Dashboard
+### Sales Dashboard in Tableau
 
 This Tableau report was designed to monitor the sales performance and analyze customer behavior, with a focus on tracking inventory and product sales. It consists of multiple views that display key metrics such as total revenue, the number of SKUs sold, return rate, and customer count. Users can filter the data by product category, region, product group, and shipping mode. The report also enables performance analysis at the state, city, product, and category levels.<br>
 
