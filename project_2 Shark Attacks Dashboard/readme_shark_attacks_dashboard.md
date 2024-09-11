@@ -1,4 +1,4 @@
-### Shark Attacks
+### Shark Attacks Dashboard in Tableau
 Description:
 This dashboard provides a detailed analysis of shark attacks over the years, segmented by various factors such as time, gender, age, and geographical location. The main view features a line chart displaying the number of shark attacks from 1960 to 2017 and the percentage of fatal attacks. Additional elements of the dashboard offer further insights into the time of day, day of the week, gender, and age of the victims, as well as a map that highlights countries with the highest number of attacks.<br>
 
