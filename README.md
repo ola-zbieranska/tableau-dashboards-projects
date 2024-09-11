@@ -15,7 +15,7 @@ Feel free to explore each project, and check back for updates as new dashboards 
 ![Description of the image](https://github.com/ola-zbieranska/tableau-dashboards-projects/blob/main/project_1%20Sales%20Dashboard/screenshots/sales%20details.png)<br>
 ![Description of the image](https://github.com/ola-zbieranska/tableau-dashboards-projects/blob/main/project_1%20Sales%20Dashboard/screenshots/returned%20orders.png)<br>
 ![Description of the image](https://github.com/ola-zbieranska/tableau-dashboards-projects/blob/main/project_1%20Sales%20Dashboard/screenshots/customer%20details.png)<br>
-![Description of the image](https://github.com/ola-zbieranska/tableau-dashboards-projects/blob/main/project_1%20Sales%20Dashboard/screenshots/product%20details.png)<br)
+![Description of the image](https://github.com/ola-zbieranska/tableau-dashboards-projects/blob/main/project_1%20Sales%20Dashboard/screenshots/product%20details.png)<br>
 
 
 
