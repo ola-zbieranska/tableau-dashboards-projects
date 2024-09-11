@@ -11,11 +11,6 @@ Feel free to explore each project, and check back for updates as new dashboards 
 [Tableau Public](https://public.tableau.com/app/profile/aleksandra.zbieranska/viz/KDSlesson9-ProductDetailsandparetoanalysis/ProductDetails)<br>
 [Detailed description of the project: Sales Dashboard in Tableau](https://github.com/ola-zbieranska/tableau-dashboards-projects/blob/main/project_1%20Sales%20Dashboard/readme_sales_dashboard.md)<br>
 
-![Description of the image](https://github.com/ola-zbieranska/tableau-dashboards-projects/blob/main/project_1%20Sales%20Dashboard/screenshots/home%20page.png)<br>
-![Description of the image](https://github.com/ola-zbieranska/tableau-dashboards-projects/blob/main/project_1%20Sales%20Dashboard/screenshots/sales%20details.png)<br>
-![Description of the image](https://github.com/ola-zbieranska/tableau-dashboards-projects/blob/main/project_1%20Sales%20Dashboard/screenshots/returned%20orders.png)<br>
-![Description of the image](https://github.com/ola-zbieranska/tableau-dashboards-projects/blob/main/project_1%20Sales%20Dashboard/screenshots/customer%20details.png)<br>
-![Description of the image](https://github.com/ola-zbieranska/tableau-dashboards-projects/blob/main/project_1%20Sales%20Dashboard/screenshots/product%20details.png)<br>
-
+![Description of the image](https://github.com/ola-zbieranska/tableau-dashboards-projects/blob/main/project_1%20Sales%20Dashboard/screenshots/gif%20sales%20dashboard.gif)<br>
 
 
